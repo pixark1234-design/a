@@ -24,7 +24,7 @@ Não Foi possível identificar o uso do material.
 Materiais adicionais não informados.
 ```
 ```
-Não foi possível visualizar os seguintes materiais:
+Não foi possível visualizar alguns materiais.
 ```
 
 ## **Segurança:**
