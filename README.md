@@ -21,6 +21,9 @@ Execução não evidenciada.
 Não Foi possível identificar o uso do material.
 ```
 ```
+Materiais adicionais não informados.
+```
+```
 Não foi possível visualizar os seguintes materiais:
 ```
 
