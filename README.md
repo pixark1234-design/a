@@ -9,6 +9,9 @@ A fachada não mostra o número.
 A fachada não aparece completamente.
 ```
 ```
+A fachada possui um número diferente do informado.
+```
+```
 Execução não evidenciada.
 ```
 
