@@ -1,6 +1,9 @@
 ```
 As imagens estão com coordenadas distantes do endereço original.
 ```
+```
+Serviço da OS não correspondente com o pedido.
+```
 ## **Evidências iniciais:**
 ```
 A fachada não mostra o número.
