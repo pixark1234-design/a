@@ -2,7 +2,7 @@
 As imagens estão com coordenadas distantes do endereço original.
 ```
 ```
-Serviço da OS não correspondente com o pedido.
+Baixa indevida
 ```
 ## **Evidências iniciais:**
 ```
