@@ -4,7 +4,10 @@ As imagens estão com coordenadas distantes do endereço original.
 ```
 Baixa indevida
 ```
-## **Evidências iniciais:**
+```
+Erro do sistema.
+```
+### **Evidências iniciais:**
 ```
 A fachada não mostra o número.
 ```
@@ -18,7 +21,7 @@ A fachada possui um número diferente do informado.
 Execução não evidenciada.
 ```
 
-## **Materiais:**
+### **Materiais:**
 
 ```
 Não Foi possível identificar o uso do material.
@@ -45,7 +48,7 @@ EPI não aparece nas imagens.
 EPI não aparece completo nas imagens.
 ```
 
-## **Execução:**
+### **Execução:**
 ```
 Fora de geometria.
 ```
@@ -65,7 +68,10 @@ Executado de forma incorreta.
 n/a
 ```
 
-## **Finalização:**
+### **Finalização:**
+```
+O aspecto anterior não foi preservado.
+```
 ```
 Local permaneceu sujo na etapa final.
 ```
