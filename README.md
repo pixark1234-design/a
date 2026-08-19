@@ -2,7 +2,7 @@
 As imagens estão com coordenadas distantes do endereço original.
 ```
 ```
-Não há evidências do serviço realizado.
+Baixa indevida.
 ```
 ```
 Erro do sistema.
