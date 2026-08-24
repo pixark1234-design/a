@@ -1,4 +1,7 @@
 ```
+Não foi possível identificar a execução do serviço.
+```
+```
 As imagens estão com coordenadas distantes do endereço original.
 ```
 ```
@@ -68,5 +71,5 @@ n/a
 O aspecto anterior não foi preservado.
 ```
 ```
-Local permaneceu sujo na etapa final.
+Local permaneceu sujo durante a etapa final.
 ```
