@@ -20,9 +20,10 @@ A fachada possui um número diferente do informado.
 ```
 Execução não evidenciada.
 ```
-
 ### **Materiais:**
-
+```
+Sem lacre.
+```
 ```
 Não Foi possível identificar o uso do material.
 ```
@@ -32,8 +33,7 @@ Materiais adicionais não informados.
 ```
 Não foi possível visualizar alguns materiais.
 ```
-
-## **Segurança:**
+### **Segurança:**
 ```
 Não foi possível visualizar os seguintes:
 Placa de estreitamento/desvio.
@@ -47,7 +47,6 @@ EPI não aparece nas imagens.
 ```
 EPI não aparece completo nas imagens.
 ```
-
 ### **Execução:**
 ```
 Fora de geometria.
@@ -67,7 +66,6 @@ Executado de forma incorreta.
 ```
 n/a
 ```
-
 ### **Finalização:**
 ```
 O aspecto anterior não foi preservado.
