@@ -1,9 +1,9 @@
 # Indice
-- [Evidencias](##Evidencias-iniciais)
-- [Materiais](##Materiais)
-- [Segurança](##Segurança)
-- [Execução](##Execução)
-- [Finalização](##Finalização)
+- [Evidencias](#Evidencias-iniciais)
+- [Materiais](#Materiais)
+- [Segurança](#Segurança)
+- [Execução](#Execução)
+- [Finalização](#Finalização)
 ```
 Não foi possível identificar a execução do serviço.
 ```
@@ -13,7 +13,7 @@ As imagens estão com coordenadas distantes do endereço original.
 ```
 Erro do sistema.
 ```
-## Evidencias iniciais
+# Evidencias iniciais
 ```
 A fachada não mostra o número.
 ```
@@ -26,7 +26,7 @@ A fachada possui um número diferente do informado.
 ```
 Execução não evidenciada.
 ```
-## Materiais
+# Materiais
 ```
 Sem lacre.
 ```
@@ -39,7 +39,7 @@ Materiais adicionais não informados.
 ```
 Não foi possível visualizar alguns materiais.
 ```
-## Segurança
+# Segurança
 ```
 Não foi possível visualizar os seguintes:
 Placa de estreitamento/desvio.
@@ -53,7 +53,7 @@ EPI não aparece nas imagens.
 ```
 EPI não aparece completo nas imagens.
 ```
-## Execução
+# Execução
 ```
 Fora de geometria.
 ```
@@ -72,7 +72,7 @@ Executado de forma incorreta.
 ```
 n/a
 ```
-## Finalização
+# Finalização
 ```
 O aspecto anterior não foi preservado.
 ```
