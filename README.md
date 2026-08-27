@@ -4,6 +4,7 @@
 - [Segurança](#Segurança)
 - [Execução](#Execução)
 - [Finalização](#Finalização)
+
 ```
 Não foi possível identificar a execução do serviço.
 ```
@@ -26,6 +27,7 @@ A fachada possui um número diferente do informado.
 ```
 Execução não evidenciada.
 ```
+- [Inicio](#Indice)
 # Materiais
 ```
 Sem lacre.
@@ -39,6 +41,7 @@ Materiais adicionais não informados.
 ```
 Não foi possível visualizar alguns materiais.
 ```
+- [Inicio](#Indice)
 # Segurança
 ```
 Não foi possível visualizar os seguintes:
@@ -53,6 +56,7 @@ EPI não aparece nas imagens.
 ```
 EPI não aparece completo nas imagens.
 ```
+- [Inicio](#Indice)
 # Execução
 ```
 Fora de geometria.
@@ -72,6 +76,7 @@ Executado de forma incorreta.
 ```
 n/a
 ```
+- [Inicio](#Indice)
 # Finalização
 ```
 O aspecto anterior não foi preservado.
