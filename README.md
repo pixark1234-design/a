@@ -51,6 +51,9 @@ Placa de "Obras a 50m".
 Fita zebrada.
 ```
 ```
+Placas sem o distanciamento adequado.
+```
+```
 EPI não aparece nas imagens.
 ```
 ```
