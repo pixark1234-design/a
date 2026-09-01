@@ -14,6 +14,9 @@ As imagens estão com coordenadas distantes do endereço original.
 ```
 Erro do sistema.
 ```
+```
+Imagem incompleta.
+```
 # Evidencias iniciais
 ```
 A fachada não mostra o número.
