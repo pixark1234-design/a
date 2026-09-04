@@ -4,15 +4,10 @@
 - [Segurança](#Segurança)
 - [Execução](#Execução)
 - [Finalização](#Finalização)
-
-```
-Não foi possível identificar a execução do serviço.
-```
+- [Erros](#Erros)
+- [Específico](#Específicos)
 ```
 As imagens estão com coordenadas distantes do endereço original.
-```
-```
-Erro do sistema.
 ```
 ```
 Imagem incompleta.
@@ -52,6 +47,7 @@ Placa de estreitamento/desvio.
 Placa de "homens trabalhando".
 Placa de "Obras a 50m".
 Fita zebrada.
+Cone.
 ```
 ```
 Placas sem o distanciamento adequado.
@@ -89,4 +85,23 @@ O aspecto anterior não foi preservado.
 ```
 ```
 Local permaneceu sujo durante a etapa final.
+```
+- [Inicio](#Indice)
+# Específicos
+```
+A supressão não foi evidenciada.
+```
+```
+A Reativação não foi evidenciada.
+```
+- [Inicio](#Indice)
+# Erros
+```
+Baixa indevida.
+```
+```
+Erro do sistema.
+```
+```
+Não foi possível identificar a execução do serviço.
 ```
